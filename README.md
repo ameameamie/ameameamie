@@ -9,7 +9,6 @@
 
 - 📫 Связаться со мной можно по почте: **ellinikik@gmail.com**
 - 📫 Или можно написать прямо в телеграм, я не кусаюсь: **@vadimki1**
-- 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
